@@ -1,14 +1,13 @@
 # Local AI
 
-Local AI inference and model orchestration environment.
+Environnement d'inférence et d'orchestration de modèles de langage légers en local.
 
-## Overview
+## Présentation
 
-Lightweight Python framework to run, benchmark, and evaluate small open-source language models locally.
+Pipeline Python permettant de charger, évaluer et interagir avec des modèles d'IA open source sans dépendre d'API distantes.
 
-## Getting Started
+## Lancement
 
 ```bash
-# Run local inference pipeline
 python3 main.py
 ```
